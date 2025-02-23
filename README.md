@@ -13,7 +13,7 @@ Le jeu de données utilisé pour entraîner BroBot est synthétique. Il a été 
 
 Un nouveau dataset peut être généré en utilisant le script Python correspondant :
 
-`[!] Assurez vous d'avoir un fichier dataset.json au même niveau que le script`
+`[!] Assurez vous d'avoir un fichier dataset.json au même niveau que le script.`
 ```bash
 python3 synthetic_data_generator.py
 ```
@@ -28,7 +28,7 @@ L'entraînement a été réalisé sur la plateforme [Kaggle](https://www.kaggle.
 
 Pour transformer les transformers obtenus en modèle compatible avec Ollama, le script `convert_model_to_ollama.py` a été utilisé.
 
-`[!] Assurez vous d'avoir un dossier nommé "brodel" au même niveau que le script`
+`[!] Assurez vous d'avoir un dossier nommé "brodel" au même niveau que le script.`
 ```bash
 python3 convert_model_to_ollama.py
 ```
