@@ -56,3 +56,7 @@ Pour utiliser le modèle avec Ollama, il suffit de faire la commande suivante :
 ```bash
 ollama run brobot
 ```
+
+En manque d'inspiration ? Voilà un exemple d'affaire que vous pouvez essayer :
+
+`My friends and I prepared an event since a long time. But just yesterday, Kevin decided to cancel to go on a date the same day.`
