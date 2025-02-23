@@ -22,11 +22,11 @@ Si vous ne voulez pas en recréer un de zéro, vous pouvez utiliser celui exista
 
 ## Entraînement
 
-L'entraînement a été réalisé sur la plateforme [Kaggle](https://www.kaggle.com) et en utilisant le notebook `ai-notebook-v4.ipynb`.
+L'entraînement a été réalisé sur la plateforme [Kaggle](https://www.kaggle.com), en utilisant le notebook `ai-notebook-v4.ipynb`.
 
 ## Conversion en modèle compatible avec Ollama
 
-Pour transformer les transformers obtenus en modèle compatible avec Ollama, le script `convert_model_to_ollama.py` a été utilisé.
+Pour convertir les transformers obtenus en un modèle compatible avec Ollama, le script `convert_model_to_ollama.py` a été utilisé.
 
 `[!] Assurez vous d'avoir un dossier nommé "brodel" au même niveau que le script.`
 ```bash
