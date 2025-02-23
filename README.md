@@ -1,6 +1,7 @@
 # BroBot
 
 BroBot est une IA qui permet de rendre un verdict sur une affaire, en se référant au Bro Code.
+Le modèle est trouvable sur Huggin Face : [TommyDIL/BroBot](https://huggingface.co/TommyDIL/BroBot)
 
 ## Pré-requis
 
